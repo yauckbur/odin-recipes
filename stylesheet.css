@@ -1,0 +1,22 @@
+*{
+box-sizing: border-box;
+}
+
+.home_heading{
+    text-align: center;
+    border: 2px solid lightseagreen;
+}
+
+.home_container{
+    height: auto;
+    width: auto;
+    border: 2px solid darkred;
+    background-color: peachpuff;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.home_list{
+    list-style: none;
+}
